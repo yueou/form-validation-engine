@@ -1,0 +1,3 @@
+When it comes to form validation, it’s hard to have a versatile solution that works with every form. Figuring out how to display errors is not a simple task. This is something I tried to remedy with this script. When an error needs to be displayed, the script creates a div and positions it in the top right corner of the input.
+
+This way you don’t have to worry about your HTML form structure. The rounded corner and shadow are done with CSS3 and degrade well in non compliant browsers. There is no images needed.
